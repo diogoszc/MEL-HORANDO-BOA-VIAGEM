@@ -1,25 +1,14 @@
-# HANDOFF — Próximo chat (fase pesada) — gerado 07/10/2026
+# HANDOFF — Próximo chat · atualizado 07/10/2026 (fim da fase ARQUITETO CHEFE)
 
-Cole o bloco abaixo no chat novo. Todo o estado está neste repositório (GitHub `main`).
+## Feito em 07/10/2026 (edição MHBV 071026 — tudo no GitHub `main`)
+- D1 aplicada: 630 m² úteis / ≈ 666 construídos; obra **R$ 1,79 mi** (dono escolheu Cenário 2 do MHBV-18); investimento R$ 3,83 mi; capital próprio R$ 1,83 mi; FNE R$ 2,0 mi (teto). 02A recalculado + 8 cenários: cobertura 2,50x, mel −20% 1,51x, TIR 25,2%. Números: `00_MASTER/NUMEROS_071026.md`.
+- Propagado em 01, 02, 02B, 03, 04, 05, 06, 07, 09, 10, 12B (PDFs refeitos) + MASTER + PDF + INTEGRAL. MHBV-14 = estudo histórico.
+- D4 Banabuiú e D5 CNAE (01.59-8-01 + 10.99-6-99) aplicadas.
+- Suíte reorganizada em 6 pastas + `00_MASTER`; duplicados removidos (00D antigo, MHBV-20). `README.md` = índice-mestre. `CLAUDE.md` §68 = Verdades Absolutas.
 
-## Decisões do dono já tomadas
-- **D1 ÁREA = 630 m² úteis / ≈666 construídos** (MHBV-18). Propagar a MHBV-02, 02A, 03, 05, 06, 14. Obra ≈ R$ 1.353.700. MHBV-14 (550 m²) vira estudo histórico, não apagar.
-- **D4 MUNICÍPIO = Banabuiú** (default; só trocar por Solonópole se o dono mandar).
-- **D5 CNAE = principal 01.59-8-01 + secundário 10.99-6-99** (confirmar com contador; nunca 10.99 isolado).
+## Falta
+1. Pesquisa ANVISA/INMETRO/NBR em fonte oficial → `02_REGULATORIO_E_NORMAS/MHBV-21_...md` (suspensa pelo dono; só retomar se ele mandar).
+2. Fechar capital próprio R$ 1,83 mi (pendência #14, CRÍTICA). 3. Fichas ≥ 20 até 31/10. 4. CNAE com contador.
 
-## Tarefa da fase pesada (attachment "ARQUITETO CHEFE" e88e5dd9)
-1. Aplicar D1/D4/D5 em todos os documentos (corrigir divergência de área em primeiro lugar).
-2. Sanitizar/centralizar; só **depois de aplicar**, remover duplicados/obsoletos (MHBV-14 fica como histórico).
-3. Reestruturar em **6 pastas**: `/01_GOVERNANCA_E_LEGAL`, `/02_REGULATORIO_E_NORMAS`, `/03_ENGENHARIA_E_INFRA`, `/04_FINANCEIRO_E_BANCARIO`, `/05_OPERACIONAL_E_RT`, `/06_MERCADO_E_ESTRATEGIA`.
-4. Preencher lacunas regulatórias (ANVISA/INMETRO/NBR) via fontes oficiais.
-5. Complementar (NÃO apagar) o CLAUDE.md com o novo rigor + estrutura de pastas + "Verdades Absolutas".
-6. Gerar `README.md` índice-mestre na raiz; commitar tudo no GitHub.
-
-## Fronteiras de contexto (NUNCA misturar)
-- **MHBV** (cooperativa) ≠ **CASA CAIXA** (dossiê pessoal MCMV em `docs/caixa` — pessoal, não copiar para fora) ≠ **LUSA LOG** (parte relacionada).
-- Nunca usar logos de órgãos públicos sem co-assinatura do órgão. "Casa Apis" é marca de terceiro — nunca usar.
-- Se o dono colar certificado/chave digital, apagar a cópia recebida imediatamente.
-
-## Onde está a verdade
-- Fonte da verdade: `MHBV 011026/00_MASTER/MHBV_MASTER.md` (Partes A–F).
-- Mapa de leitura: `MEMORY.md`. Índice: `docs/INDICE_SUITE.md`. Pendências: `docs/PENDENCIAS.md`.
+## Fronteiras (NUNCA misturar)
+MHBV ≠ CASA CAIXA (`docs/caixa`, pessoal) ≠ LUSA LOG. Logos de órgão só com co-assinatura. "Casa Apis" proibida. Certificado colado → apagar.

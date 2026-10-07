@@ -94,7 +94,7 @@ Correção: criar o passo **C3-a · obra de adequação do imóvel locado** (don
 | L11 | As 10 pendências não têm dono nem data | Comissão (JUCEC, OCB, Prefeitura, CNAE com o contador) até dez/2026 · RT (ADAGRI, SEMACE, CBMCE) a partir de 15/01/2027 |
 | L12 | O SIM é descartado ("não usar") e não existe plano B de cronograma | Registrar o SIM como **contingência**: se o SIE atrasar, é a única forma legal de vender algo em Boa Viagem e não ficar com estoque parado |
 | L13 | A via SISBI está descrita sem o pré-requisito do estabelecimento | Além de a ADAGRI obter escopo de mel, o estabelecimento precisa de **registro ativo no e-Sisbi** (ficou claro na leitura do Decreto 12.408/2025) |
-| L14 | Vigilância do marco legal sem rotina | O `mel_watch.sh` (05_ANEXOS) já varre compras públicas; acrescentar as palavras "SISBI mel", "ADAGRI escopo mel" e "decreto mel interestadual" — a reabertura desse caminho vale mais que qualquer negociação comercial |
+| L14 | Vigilância do marco legal sem rotina | O `mel_watch.sh` (06_MERCADO_E_ESTRATEGIA/_externo_opsysgov) já varre compras públicas; acrescentar as palavras "SISBI mel", "ADAGRI escopo mel" e "decreto mel interestadual" — a reabertura desse caminho vale mais que qualquer negociação comercial |
 
 ---
 

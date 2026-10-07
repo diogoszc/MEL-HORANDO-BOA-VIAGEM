@@ -1,4 +1,5 @@
 # AUDITORIA MHBV 1.0 — Laudo do Auditor Líder independente
+> **Histórico (auditoria de 30/09/2026).** Pastas e números citados são da edição 011026; estrutura e números vigentes: `00_MASTER/MHBV_MASTER.md` e `NUMEROS_071026.md`.
 Data: 30/09/2026 · Escopo: todos os .docx/.pdf de out/01_GOVERNANCA, out/02_INSTITUCIONAL, out/03_FINANCEIRO, out/04_LEGAL_REGULATORIO + xlsx 02A e 07A (fora do escopo: out/05_ANEXOS e MASTER).
 Fonte da verdade: NUMEROS_1.0.md + MHBV-02A v1.0 recalculado no LibreOffice.
 

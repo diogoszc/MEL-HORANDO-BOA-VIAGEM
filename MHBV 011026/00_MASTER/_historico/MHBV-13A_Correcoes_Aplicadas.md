@@ -1,4 +1,5 @@
 # CORREÇÕES APLICADAS — MHBV 1.0 (Editor de Conformidade, 30/09/2026)
+> **Histórico (auditoria de 30/09/2026).** Pastas e números citados são da edição 011026; estrutura e números vigentes: `00_MASTER/MHBV_MASTER.md` e `NUMEROS_071026.md`.
 
 Base: AUDITORIA_1.0.md (22 achados) + MASTER §12 (D1–D5) + decisões do Diretor 1–9. Arquivos em out/ editados in place; PDF regerado (soffice) para cada .docx alterado.
 

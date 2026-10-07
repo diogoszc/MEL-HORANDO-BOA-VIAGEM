@@ -1,10 +1,11 @@
 # MHBV_MASTER — MEL-HORANDO BOA VIAGEM
-**Edição MHBV 011026 (01/10/2026) · modelo MHBV 1.0 (Entreposto Regional) · Bordão: "Tá no Mel!"**
+**Edição MHBV 071026 (07/10/2026) · modelo MHBV 1.0 (Entreposto Regional) · Bordão: "Tá no Mel!"**
+> **Edição 071026:** aplicadas as decisões do dono **D1** (planta 630 m² úteis / ≈ 666 m² construídos; obra R$ 1,79 mi — MHBV-18 Cenário 2), **D4** (campo 17 = Banabuiú) e **D5** (CNAE 01.59-8-01 + 10.99-6-99). Números vigentes: `00_MASTER/NUMEROS_071026.md` = modelo MHBV-02A recalculado em 07/10/2026.
 Documento mestre único da pasta `Desktop\MHBV\MHBV 011026`. Substitui, para consulta: MHBV_A_SEGUIR (MASTER unificado de 30/09), MHBV_1.0_MASTER.md e cópias, AVULSO_001 (municípios), AVULSO_002 (registro), MHBV_RESUMO_ABA e MHBV_STATE_AVULSO_005. Incorpora a auditoria de 30/09 (tarefas MHBV-14/15/16) — Parte F2.
-Números = NUMEROS_1.0.md = modelo MHBV-02A (recalculado em LibreOffice em 30/09/2026 e conferido em 01/10/2026). Divergência doc × NUMEROS → Parte F, nunca correção silenciosa.
+Números = NUMEROS_071026.md = modelo MHBV-02A (recalculado em LibreOffice em 07/10/2026). Divergência doc × NUMEROS → Parte F, nunca correção silenciosa.
 Legenda: **[A CONFIRMAR]** = depende de terceiro · **[NÃO VERIFICADO]** = sem fonte conferida nesta edição · **"____"** = campo que a Assembleia decide · **[NOVO]** = dado que existia só em um anexo e não estava no MASTER.
 
-> **Anexo I FECHADO (edição 011026):** os 8 municípios da decisão de 29/09 (Tamboril, Independência, Piquet Carneiro, Ibaretama, Quixadá, Senador Pompeu, Choró, Banabuiú) estão gravados no Estatuto 00B (Anexo I, campos 10–17) e na Ata/Edital 00A, para ratificação na Assembleia de 28/11/2026. Somam 191,442 t e fecham 520,949 t (≈ 521 t) em 2024. **Nota: alternativa Solonópole (no lugar de Banabuiú, mesmos 4,5 t) — confirmar com Diogo.**
+> **Anexo I FECHADO (edição 011026):** os 8 municípios da decisão de 29/09 (Tamboril, Independência, Piquet Carneiro, Ibaretama, Quixadá, Senador Pompeu, Choró, Banabuiú) estão gravados no Estatuto 00B (Anexo I, campos 10–17) e na Ata/Edital 00A, para ratificação na Assembleia de 28/11/2026. Somam 191,442 t e fecham 520,949 t (≈ 521 t) em 2024. **Campo 17 = Banabuiú — decisão D4 (07/10/2026); Solonópole arquivada.**
 
 ---
 
@@ -29,21 +30,21 @@ Legenda: **[A CONFIRMAR]** = depende de terceiro · **[NÃO VERIFICADO]** = sem 
 | Item | Valor |
 |---|---|
 | Tipo | Entreposto regional de produtos das abelhas (recebe mel já extraído) |
-| Área construída | ~550 m², fluxo em 1 direção |
+| Área | **630 m² úteis / ≈ 666 m² construídos** (22 setores; módulo 35,0 × 19,0 m), fluxo em 1 direção · terreno ≈ 2.500 m² (D1, MHBV-18) |
 | Capacidade instalada | 350 t/ano |
 | Metas | Piloto (Fase 0): 150 t (2027) → 200 t (2028) · Entreposto (Fase 1): ano 1 = 200 t, ano 2+ = 250 t |
 | Área de ação | Boa Viagem + 16 municípios · hub em Mombaça |
 | Registro | SIE/ADAGRI primeiro; SIF/MAPA só na Fase 2 |
 | Mercado | Interno (Ceará) / PAA-CE / Conab / PNAE |
 | Preço ao cooperado | 65% do granel PAA/Conab-CE = R$ 12,06/kg |
-| Investimento | R$ 3,29 mi (FNE invest. R$ 2,0 mi + capital próprio R$ 1,29 mi) + FNE giro R$ 0,6 mi renovável |
+| Investimento | R$ 3,83 mi (FNE invest. R$ 2,0 mi + capital próprio R$ 1,83 mi) + FNE giro R$ 0,6 mi renovável |
 
 ### 2.1 Via Faseada
 
 | Fase | O quê | Selo | Mercado | Gatilho |
 |---|---|---|---|---|
 | 0 · Piloto | Imóvel locado; recepção, análise, envase; 150 t (2027) → 200 t (2028) | SIE/ADAGRI | Ceará | Registro SIE 01/04/2027 |
-| 1 · Entreposto | ~550 m² próprio, 350 t/ano; ano 1 = 200 t, ano 2+ = 250 t; FNE | SIE/ADAGRI | Ceará | 12 meses de piloto + pedido FNE 07/2028 |
+| 1 · Entreposto | 630 m² úteis (≈ 666 construídos) próprio, 350 t/ano; ano 1 = 200 t, ano 2+ = 250 t; FNE | SIE/ADAGRI | Ceará | 12 meses de piloto + pedido FNE 07/2028 |
 | 2 · SIF | Registro federal do mesmo entreposto | SIF/MAPA | Interestadual, depois exportação | Só com escala |
 
 Linha artesanal opcional: **Selo ARTE** (Lei 1.283/1950, art. 10-A; Decreto 11.099/2022) permite venda em todo o Brasil de produto já inspecionado, mas exige técnica **predominantemente manual** e origem determinada (art. 5º) → **arriscado para a linha de sachê** (MHBV-15, C.1). Decisão: pendência #19.
@@ -83,7 +84,7 @@ Fonte: IBGE/PPM, SIDRA tab. 74 (mel, kg) e Censo Agro 2017, SIDRA tab. 9270 (col
 
 - Ceará: 5.647.799 kg (2023) · 6.058.617 kg (2024). Região ≈ 8,6% do estado (2024).
 - Variação da região 2023 → 2024: −14,8% (Mombaça −41%; Pedra Branca −26%; Piquet Carneiro −52%). 250 t = 48% de 2024 e 41% de 2023 → produção é volátil; a meta depende das fichas de colmeias.
-- **Nota:** alternativa Solonópole — confirmar com Diogo (AVULSO 001, opção A, trocava Banabuiú por Solonópole; ambos 4,5 t). Documentos gravados com **Banabuiú** (decisão de 29/09). Troca, se houver, só no 00B campo 17 e no 00A.
+- **D4 (07/10/2026): campo 17 = Banabuiú.** Solonópole (AVULSO 001, mesmos 4,5 t) arquivada; troca só por ordem expressa do dono (00B campo 17 e 00A).
 - Link SIDRA 74 (17 municípios): https://apisidra.ibge.gov.br/values/t/74/n6/2302404,2307635,2311405,2310506,2308609,2313203,2306603,2302800,2312205,2305605,2312700,2308500,2310902,2311306,2303931,2305266,2301851/n3/23/v/106/p/last%202/c80/2687/f/n/h/n
 - Link candidatos (todos CE, 2024): https://apisidra.ibge.gov.br/values/t/74/n6/in%20n3%2023/v/106/p/2024/c80/2687
 
@@ -172,7 +173,7 @@ Umidade fora do padrão: **proibido desumidificar para corrigir** (art. 85). Des
 | Umidade, HMF, diástase, cor, acidez, condutividade, cinzas; bancada inox/resina fenólica | ISO/IEC 17025, resíduos PNCRC, R$ 40 mil/ano (premissa), 1 amostra/lote de cooperado; cotação nov/2026 pela Comissão (Eurofins, Mérieux, SGS); RT valida após 15/01/2027 |
 
 ## 6. Requisitos físicos (MHBV-03 §III · detalhe por setor: MHBV-14)
-Área: ~550 m² = **área útil** (soma dos 20 setores do MHBV-14) ≈ **580–595 m² construídos** → conferir com o orçamento de obra de R$ 1,30 mi (pendência #25).
+Área (D1, 07/10/2026): **630 m² úteis** (22 setores — MHBV-18 §2) ≈ **666 m² construídos**; terreno ≈ 2.500 m². O quadro de 550 m² do MHBV-14 é estudo histórico; os requisitos sanitários por setor do MHBV-14 continuam válidos.
 
 | Item | Critério | Natureza |
 |---|---|---|
@@ -280,8 +281,12 @@ MHBV-11 (abas): Compradores 43 (redes CE, atacarejos, atacadistas, lojas naturai
 | 30/09/2026 | Suíte v1.0 (sufixo _v1.0; PDF ao lado de cada .docx) | Diretor | Superada pela edição 011026 |
 | 30/09/2026 | Auditoria em 3 tarefas (MHBV-14 planta · 15 caminho legal · 16 BPF/auditoria do 07) | Diretor | Parte F2 |
 | 01/10/2026 | Edição **MHBV 011026**: pasta única, nomes limpos, Anexo I fechado, correções 03/07/07A aplicadas | Diretor | Parte D §4; CONSOLIDACAO_011026 |
+| 07/10/2026 | **D1** planta 630 m² úteis / ≈ 666 construídos; obra R$ 1,79 mi (MHBV-18 Cenário 2) → investimento R$ 3,83 mi, capital próprio R$ 1,83 mi | Usuário | NUMEROS_071026; 02A; 02, 02B, 05, 06, 09, 10, 01, 03 |
+| 07/10/2026 | **D4** campo 17 = Banabuiú (definitivo) | Usuário | 00A, 00B |
+| 07/10/2026 | **D5** CNAE principal 01.59-8-01 + secundário 10.99-6-99 [A CONFIRMAR contador antes do CNPJ] | Usuário | 03, 01 |
+| 07/10/2026 | Edição **MHBV 071026**: D1/D4/D5 propagadas; suíte reorganizada em 6 pastas | Diretor | Parte D §4 |
 
-Status (01/10/2026): edição MHBV 011026 emitida. Cooperativa não constituída; sem CNPJ; nenhum protocolo feito. Próximo marco: ≥ 20 fichas até 31/10/2026.
+Status (07/10/2026): edição MHBV 071026 emitida. Cooperativa não constituída; sem CNPJ; nenhum protocolo feito. Próximo marco: ≥ 20 fichas até 31/10/2026.
 
 ## 2. Lei 5.764/1971 — pontos usados
 - art. 4º XI: área de admissão limitada à capacidade de reunião, controle e operações.
@@ -293,7 +298,7 @@ Status (01/10/2026): edição MHBV 011026 emitida. Cooperativa não constituída
 - art. 56 §1º: Conselho Fiscal.
 - arts. 79 e 111: ato cooperativo. art. 107: registro OCB.
 
-## 3. Estatuto, Regimento, Ata (01_GOVERNANCA)
+## 3. Estatuto, Regimento, Ata (01_GOVERNANCA_E_LEGAL)
 
 | Doc | Artigo / item | Conteúdo-chave |
 |---|---|---|
@@ -323,47 +328,48 @@ Status (01/10/2026): edição MHBV 011026 emitida. Cooperativa não constituída
 | | guia 1–11 | Mobilização → fichas 31/10 → OCB → INPI 14/11 → advogado → edital 18/11 → AGE 28/11 → JUCEC 07/12 → CNPJ/OCB/CAF-PJ dez/2026 |
 | 00E Checklist | A/B/C + modelo | Antes da AGE; processo JUCEC (visto OAB/CE obrigatório — Lei 8.906, art. 1º §2º); pós-registro; Declaração de Desimpedimento |
 
-## 4. Mapa de documentos — pasta vigente `Desktop\MHBV\MHBV 011026`
-Nomes limpos (sem sufixo de versão). Cada .docx tem PDF ao lado. Versão impressa em capa/cabeçalho/rodapé: **MHBV 011026 (01/10/2026)**.
+## 4. Mapa de documentos — pasta vigente `MHBV 011026/` (estrutura de 6 pastas desde 07/10/2026)
+Nomes limpos (sem sufixo de versão). Cada .docx tem PDF ao lado. Versão impressa: **MHBV 071026 (07/10/2026)** nos documentos alterados pela D1; os demais seguem **MHBV 011026 (01/10/2026)** (conteúdo não mudou).
 
 | Nº | Pasta | Arquivo | Função | Status |
 |---|---|---|---|---|
-| 1 | 00_MASTER | MHBV_MASTER.md + .pdf | Fonte da verdade (este documento) | 011026 |
-| 2 | 00_MASTER | MHBV_INTEGRAL.md | Texto integral de toda a pasta, com índice | 011026 |
-| 3 | 01_GOVERNANCA | MHBV-00A_Edital_e_Ata_de_Constituicao | Edital + Ata + Anexos I/II | Minuta p/ registro · área ratificada com os 8 municípios · advogado + OCB/CE |
-| 4 | 01_GOVERNANCA | MHBV-00B_Estatuto_Social | Estatuto + Anexo I | Minuta · **Anexo I fechado (17 campos)** |
-| 5 | 01_GOVERNANCA | MHBV-00C_Regimento_Interno | Entrega, qualidade, 65%, 50/20/30 | Minuta |
-| 6 | 01_GOVERNANCA | MHBV-00D_Ficha_de_Adesao_e_Guia_de_Constituicao | Ficha + guia 1–11 | Pronto p/ coleta (31/10) |
-| 7 | 01_GOVERNANCA | MHBV-00E_Checklist_Registro_JUCEC_OCB | Checklist + desimpedimento | Pronto (complementos no MHBV-15, Bloco A) |
-| 8 | 02_INSTITUCIONAL | MHBV-01_Oficio_Prefeitura | Anuência, terreno, uso do solo, alvarás, apoio | Pronto p/ protocolo [data A CONFIRMAR] |
-| 9 | 02_INSTITUCIONAL | MHBV-01A_Guia_de_Protocolo_do_Oficio | Uso interno | Pronto |
-| 10 | 02_INSTITUCIONAL | MHBV-06_Solucao_Mestra | Resumo executivo | Pronto · texto ainda diz "8 municípios não fixados" (pendência #26) |
-| 11 | 03_FINANCEIRO | MHBV-02_Dossie_Viabilidade_Financeira | Dossiê FNE | Pronto (uso 04/2028) · idem #26 |
-| 12 | 03_FINANCEIRO | MHBV-02A_Modelo_Financeiro_Cooperativa.xlsx | Fonte dos números | Receita R$ 6,26 mi conferida (Parte F #2) |
-| 13 | 03_FINANCEIRO | MHBV-02B_Capital_de_Giro_e_Metas_Fase0 | Giro + metas | Pronto |
-| 14 | 03_FINANCEIRO | MHBV-05_Auditoria_de_Riscos_360 | Vetos + riscos (COSO) | Pronto · risco #1 a reescrever (#26) |
-| 15 | 03_FINANCEIRO | MHBV-09_Kit_Reuniao_BNB_OnePage | Mesa do gerente | Pronto |
-| 16 | 03_FINANCEIRO | MHBV-10_Carta_Consulta_BNB | Consulta prévia | Pronto · agência "____" |
-| 17 | 04_LEGAL_REGULATORIO | MHBV-03_Checklist_Conformidade_Tecnica | Checklist por órgão + matriz | **Citações corrigidas** (ralo, barreira, filtração, saneantes, materiais); CNAE marcado [A CONFIRMAR] |
-| 18 | 04_LEGAL_REGULATORIO | MHBV-04_Mapa_de_Acoes_Online | Ações 1–15 | Pronto (canal SIF corrigido no MHBV-15) |
-| 19 | 04_LEGAL_REGULATORIO | MHBV-07_Manual_PAC_BPF_PPHO_APPCC | PAC (14 BPF, PPHO, APPCC) | Minuta · **Adendo VI** (Port. 795 + Anexo 1.439) · assinatura RT PENDENTE |
-| 20 | 04_LEGAL_REGULATORIO | MHBV-07A_Planilhas_de_Registro_RG.xlsx | RG-01…RG-C3 | Teto 23%, RG-11B e RG-C3 corrigidos · limites do RT em branco |
-| 21 | 04_LEGAL_REGULATORIO | MHBV-15_Checklist_Caminho_Legal.md | Do CNPJ ao selo (SIM/SIE/SIF/SISBI/ARTE; MAPA × ANVISA) | Auditoria 30/09 |
-| 22 | 04_LEGAL_REGULATORIO | MHBV-16_BPF_Esboco_Mel_e_Auditoria_do_07.md | Esboço BPF-mel + auditoria do 07/07A | Auditoria 30/09 · lacunas §2.2 abertas (#27) |
-| 23 | 05_ANEXOS | MHBV-11_Diretorio_Parceiros_Contatos.xlsx | Compradores, produtores, órgãos, fornecedores, alertas | Contatos [NÃO VERIFICADOS] |
-| 24 | 05_ANEXOS | MHBV-12A_Oficio_SEBRAE_CE | Diagnóstico, Sebraetec, gestão coop. | Minuta de apoio |
-| 25 | 05_ANEXOS | MHBV-12B_Oficio_SDA_Projeto_Sao_Jose | Editais São José / contrapartida | Minuta de apoio |
-| 26 | 05_ANEXOS | MHBV-12C_Oficio_IFCE_Boa_Viagem | Cooperação técnico-científica | Minuta de apoio |
-| 27 | 05_ANEXOS | MHBV-12D_Declaracao_de_Desimpedimento | Conselheiro eleito (JUCEC) | Minuta de apoio |
-| 28 | 05_ANEXOS | MHBV-12E_Lista_de_Presenca | Reuniões (AGE: Anexo II da 00A) | Pronto |
-| 29 | 05_ANEXOS | MHBV-12F_Roteiro_1a_Reuniao_Mobilizacao | Mobilização (fichas até 31/10) | Pronto |
-| 30 | 05_ANEXOS | MHBV-12G_Oficio_Visita_Tecnica_Cooperativa_Referencia | Benchmark (destinatário em branco) | Minuta · decisão: Diogo |
-| 31 | 05_ANEXOS | MHBV-13_Laudo_Auditoria_Independente.md | Auditoria de 30/09 (22 achados) | Histórico |
-| 32 | 05_ANEXOS | MHBV-13A_Correcoes_Aplicadas.md | Correções da auditoria de 30/09 | Histórico |
-| 33 | 05_ANEXOS | mel_watch.sh | Patch do radar OpSysGov² (mel em CoEP/PNCP) | Externo ao MHBV · não executar daqui |
-| 34 | 06_ENGENHARIA | MHBV-14_Guia_Requisitos_Tecnicos_Planta.md | 20 setores, 550 m² úteis, fluxo e pontos de contaminação | Minuta p/ RT e projetista |
+| 1 | 00_MASTER | MHBV_MASTER.md + .pdf | Fonte da verdade (este documento) | 071026 |
+| 2 | 00_MASTER | NUMEROS_071026.md | Tabela antes × vigente de todos os números (D1) | 071026 |
+| 3 | 00_MASTER | MHBV_INTEGRAL.md | Texto integral de toda a pasta, com índice (não ler inteiro) | regenerado 071026 |
+| 4 | 00_MASTER/_historico | MHBV-13 / 13A | Auditoria independente de 30/09 e correções | Histórico (caminhos citados = edição 011026) |
+| 5 | 01_GOVERNANCA_E_LEGAL | MHBV-00A_Edital_e_Ata_de_Constituicao | Edital + Ata + Anexos I/II | Minuta p/ registro · Banabuiú (D4) · advogado + OCB/CE |
+| 6 | 01_GOVERNANCA_E_LEGAL | MHBV-00B_Estatuto_Social | Estatuto + Anexo I (17 campos) | Minuta |
+| 7 | 01_GOVERNANCA_E_LEGAL | MHBV-00C_Regimento_Interno | Entrega, qualidade, 65%, 50/20/30 | Minuta |
+| 8 | 01_GOVERNANCA_E_LEGAL | MHBV-00D_Ficha_de_Adesao_e_Guia_de_Constituicao | Ficha (v1.1: meses de safra + vasilhame) + guia 1–11 | Pronto p/ coleta (31/10) |
+| 9 | 01_GOVERNANCA_E_LEGAL | MHBV-00E_Checklist_Registro_JUCEC_OCB | Checklist + desimpedimento | Pronto |
+| 10 | 01_GOVERNANCA_E_LEGAL | MHBV-12D_Declaracao_de_Desimpedimento | Conselheiro eleito (JUCEC) | Minuta |
+| 11 | 01_GOVERNANCA_E_LEGAL | MHBV-12E_Lista_de_Presenca | Reuniões (AGE: Anexo II da 00A) | Pronto |
+| 12 | 01_GOVERNANCA_E_LEGAL | MHBV-12F_Roteiro_1a_Reuniao_Mobilizacao | Mobilização (fichas até 31/10) | Pronto |
+| 13 | 02_REGULATORIO_E_NORMAS | MHBV-03_Checklist_Conformidade_Tecnica | Checklist por órgão + matriz · CNAE D5 | 071026 |
+| 14 | 02_REGULATORIO_E_NORMAS | MHBV-04_Mapa_de_Acoes_Online | Ações 1–15 | 071026 |
+| 15 | 02_REGULATORIO_E_NORMAS | MHBV-15_Checklist_Caminho_Legal.md | Do CNPJ ao selo (SIM/SIE/SIF/SISBI/ARTE; MAPA × ANVISA) | Auditoria 30/09 |
+| 16 | 02_REGULATORIO_E_NORMAS | MHBV-19_Laudo_Auditoria_Caminho_Legal.md | Laudo do 15 | Auditoria |
+| 17 | 03_ENGENHARIA_E_INFRA | MHBV-01_Oficio_Prefeitura (+ 01A Guia de protocolo) | Anuência, terreno ≈ 2.500 m² (CDRU), uso do solo, alvarás | 071026 · pronto p/ protocolo [data A CONFIRMAR] |
+| 18 | 03_ENGENHARIA_E_INFRA | MHBV-18_Layout_Preliminar_630m2_e_Orcamento_BDI.md | **Planta vigente (D1)**: 630/666 m², terreno, obra R$ 1,79 mi | Vigente · preços [REQUER VERIFICAÇÃO EXTERNA] |
+| 19 | 03_ENGENHARIA_E_INFRA | MHBV-17_Laudo_Auditoria_Planta.md | Laudo do 14 (origem do 18) | Auditoria |
+| 20 | 03_ENGENHARIA_E_INFRA | MHBV-14_Guia_Requisitos_Tecnicos_Planta.md | Requisitos sanitários por setor (quadro 550 m² = estudo histórico) | Histórico + referência p/ RT/projetista |
+| 21 | 04_FINANCEIRO_E_BANCARIO | MHBV-02A_Modelo_Financeiro_Cooperativa.xlsx | **Fonte dos números** | Recalculado 07/10/2026 |
+| 22 | 04_FINANCEIRO_E_BANCARIO | MHBV-02_Dossie_Viabilidade_Financeira | Dossiê FNE (usos e fontes R$ 4,47 mi) | 071026 · uso 04/2028 |
+| 23 | 04_FINANCEIRO_E_BANCARIO | MHBV-02B_Capital_de_Giro_e_Metas_Fase0 | Giro + metas | 071026 |
+| 24 | 04_FINANCEIRO_E_BANCARIO | MHBV-05_Auditoria_de_Riscos_360 | Vetos + riscos (COSO) · risco #1 reescrito | 071026 |
+| 25 | 04_FINANCEIRO_E_BANCARIO | MHBV-09_Kit_Reuniao_BNB_OnePage | Mesa do gerente | 071026 |
+| 26 | 04_FINANCEIRO_E_BANCARIO | MHBV-10_Carta_Consulta_BNB | Consulta prévia · agência "____" | 071026 |
+| 27 | 04_FINANCEIRO_E_BANCARIO | MHBV-12B_Oficio_SDA_Projeto_Sao_Jose | Subvenção p/ contrapartida R$ 1,83 mi | 071026 · minuta |
+| 28 | 05_OPERACIONAL_E_RT | MHBV-07_Manual_PAC_BPF_PPHO_APPCC | PAC (14 BPF, PPHO, APPCC) + Adendo VI | Minuta · assinatura RT PENDENTE |
+| 29 | 05_OPERACIONAL_E_RT | MHBV-07A_Planilhas_de_Registro_RG.xlsx | RG-01…RG-C3 | Limites do RT em branco |
+| 30 | 05_OPERACIONAL_E_RT | MHBV-16_BPF_Esboco_Mel_e_Auditoria_do_07.md | Esboço BPF-mel + lacunas do 07 (#27) | Auditoria 30/09 |
+| 31 | 06_MERCADO_E_ESTRATEGIA | MHBV-06_Solucao_Mestra | Resumo executivo | 071026 |
+| 32 | 06_MERCADO_E_ESTRATEGIA | MHBV-11_Diretorio_Parceiros_Contatos.xlsx | Compradores, produtores, órgãos, fornecedores, alertas | Contatos [NÃO VERIFICADOS] |
+| 33 | 06_MERCADO_E_ESTRATEGIA | MHBV-12A / 12C / 12G | Ofícios SEBRAE, IFCE, visita técnica | Minutas de apoio |
+| 34 | 06_MERCADO_E_ESTRATEGIA/_externo_opsysgov | mel_watch.sh | Patch do radar OpSysGov² | Externo ao MHBV · não executar daqui |
 
-Fora da pasta (arquivo morto): suíte _v1.0, MHBV_A_SEGUIR, AVULSO_001/002/003/005, LIMPEZA_MHBV_1.0.bat (substituído por esta pasta).
+Removidos em 07/10/2026 (duplicados): MHBV-00D original (superado pela v1.1, que passou a ter o nome limpo) · MHBV-20_compradores_mel_CE.xlsx (43 compradores, todos já no MHBV-11, aba Compradores).
+Fora da pasta (arquivo morto): suíte _v1.0, MHBV_A_SEGUIR, AVULSO_001/002/003/005, LIMPEZA_MHBV_1.0.bat.
 
 ## 5. Base legal
 
@@ -400,7 +406,7 @@ Fora da pasta (arquivo morto): suíte _v1.0, MHBV_A_SEGUIR, AVULSO_001/002/003/0
 | Estrutura | Título de impacto + DESTINATÁRIO / REFERÊNCIA / OBJETO / PROPONENTE · Síntese Executiva · seções I, II, III.1 · parágrafos numerados · base legal em cada fundamento · requerimentos a) b) c) · assinaturas centralizadas (Diogo + Francisco, Comissão Organizadora) |
 | Visual | Cabeçalho "C O O P  M E L - H O R A N D O" com filete duplo verde · favos no canto superior direito · emblema (mapa do Ceará + MH) · rodapé "Página X de Y" · marca d'água MEL-HORANDO (exceto minutas de registro) · tabelas verdes #004B1B |
 | Paleta / tipos | Azul-noite #0A0E1A · dourado #B08D57 · verde #004B1B · Georgia (títulos) · Inter (texto) |
-| Minutas de apoio (05_ANEXOS) | Faixa verde #004B1B, tarja âmbar "MINUTA", emblema MH |
+| Minutas de apoio (12A–12G) | Faixa verde #004B1B, tarja âmbar "MINUTA", emblema MH |
 | Texto | Conclusão primeiro · frases curtas · tabelas limpas · nada de "provavelmente" · [A CONFIRMAR] / [NÃO VERIFICADO] · "____" para campo da Assembleia |
 | Versão | Nome limpo (sem sufixo) · "MHBV 011026 (01/10/2026)" em capa, cabeçalho e rodapé · PDF ao lado de cada .docx |
 | Remetente | Comissão Organizadora da COOP MEL-HORANDO (em constituição). LUSA LOG nunca remetente |
@@ -415,12 +421,12 @@ Fora da pasta (arquivo morto): suíte _v1.0, MHBV_A_SEGUIR, AVULSO_001/002/003/0
 
 | Item | Valor |
 |---|---|
-| Obras civis (~550 m²) | R$ 1,30 mi (≈ R$ 2.364/m²; faixa R$ 2.125–2.413/m² do orçamento anterior, sem BDI) |
+| Obras civis (630 m² úteis / ≈ 666 construídos) | **R$ 1,79 mi** = R$ 1.353.700 por tipo de área + R$ 79.548 (6% estrutura) + BDI 25% (MHBV-18 Cenário 2) · preços [REQUER VERIFICAÇÃO EXTERNA] |
 | Equipamentos + lab local | R$ 1,69 mi (preços unitários do projeto anterior; sem cotação → 3 orçamentos/item) |
-| Projetos, licenças, instalação, imprevistos | R$ 0,30 mi |
-| **Investimento total** | **R$ 3,29 mi** |
-| FNE investimento (Coopera) | R$ 2,0 mi · 12 anos, 4 de carência · 10% a.a. no modelo (faixa 7,65%–12,45%) |
-| Capital próprio | R$ 1,29 mi (≈ 39%) — cotas-parte, retenção 5%, Fundo de Investimento Industrial, CDRU/cessão, Projeto São José/emendas [valores NÃO VERIFICADOS] |
+| Projetos, licenças, instalação, imprevistos | R$ 0,35 mi |
+| **Investimento total** | **R$ 3,83 mi** |
+| FNE investimento (Coopera) | R$ 2,0 mi (≈ 52%) · 12 anos, 4 de carência · 10% a.a. no modelo (faixa 7,65%–12,45%) |
+| Capital próprio | R$ 1,83 mi (≈ 48%; +R$ 0,54 mi pela D1 — vem de capital próprio/subvenção, nunca de mais FNE: +R$ 0,1 mi de FNE derruba mel −20% para ≈ 1,46x) — cotas-parte, retenção 5%, Fundo de Investimento Industrial, CDRU/cessão, Projeto São José/emendas [valores NÃO VERIFICADOS] |
 | FNE giro | R$ 0,6 mi renovável por safra · só juros no caixa ≈ R$ 0,06 mi/ano · penhor do estoque de sachê · prazo/renovação NÃO publicados [A CONFIRMAR BNB] |
 | Total financiado FNE | R$ 2,6 mi |
 
@@ -433,7 +439,7 @@ Fora da pasta (arquivo morto): suíte _v1.0, MHBV_A_SEGUIR, AVULSO_001/002/003/0
 | Preço ao cooperado | 65% × 18,55 = R$ 12,06/kg (atravessador ≈ R$ 12/kg) |
 | Pagamento | 50% na entrega + 20% em 90 dias + 30% e sobras no fim do exercício |
 | Retenção de capital | 5% do mel entregue (≈ R$ 0,15 mi/ano no regime) |
-| Sobra distribuível ano 6 | ≈ R$ 2,19/kg → preço efetivo ≈ R$ 14,25/kg |
+| Sobra distribuível ano 6 | ≈ R$ 2,08/kg → preço efetivo ≈ R$ 14,14/kg |
 | Índice | Tabela PAA/Conab-CE (CEPEA não publica mel); recálculo mensal |
 
 ## 3. Resultado (02A)
@@ -441,27 +447,27 @@ Fora da pasta (arquivo morto): suíte _v1.0, MHBV_A_SEGUIR, AVULSO_001/002/003/0
 | Indicador | Valor |
 |---|---|
 | Receita bruta no regime (250 t recebidas) | R$ 6,26 mi = 246,25 t vendidas (perda de processo 1,5%): 147,75 t sachê × R$ 30 + 98,5 t granel × R$ 18,55 = R$ 6.259.675 |
-| EBITDA no regime | R$ 1,13 mi (18,0%) |
+| EBITDA no regime | R$ 1,12 mi (17,9%) |
 | Serviço máximo da dívida (ano 5) | R$ 0,51 mi = juros 0,20 + amortização 0,25 + juros giro 0,06 |
-| Cobertura mínima (base) | 2,51x (ano 5) · média anos 5–12: 3,09x · sem retenção: 2,22x |
-| TIR projeto (12 anos, sem valor residual) | 30,1% · VPL 10%: R$ 4,04 mi · TIR cooperados 49,6% |
+| Cobertura mínima (base) | 2,50x (ano 5) · média anos 5–12: 3,07x · sem retenção: 2,20x |
+| TIR projeto (12 anos, sem valor residual) | 25,2% · VPL 10%: R$ 3,45 mi · TIR cooperados 35,3% |
 
-Conferência: (1,13 + 0,15) / 0,51 = 2,51x ✓ · 1,13 / 0,51 = 2,22x ✓ · amortização 2,0 / 8 anos = 0,25 ✓.
+Conferência: (1,1227 + 0,1507) / 0,51 = 2,50x ✓ · 1,1227 / 0,51 = 2,20x ✓ · amortização 2,0 / 8 anos = 0,25 ✓.
 
 ## 4. Estresse (cobertura mínima, ano 5 — 02A aba Cenarios_BNB)
 
 | Cenário | Cobertura | Sem retenção | TIR projeto | Status |
 |---|---|---|---|---|
-| Base | 2,51x | 2,22x | 30,1% | ✓ |
-| Mel −20% (venda e cooperado) | 1,52x | 1,29x | 15,0% | ✓ piso BNB ≥ 1,50x |
-| Volume −20% (200 t) | 1,67x | 1,43x | 17,5% | ✓ |
-| Preço −10% + volume −10% | 1,64x | 1,41x | 17,1% | ✓ |
-| Juros 12,45% | 2,23x | 1,97x | 30,1% | ✓ |
-| Juros 7,65% | 2,85x | 2,52x | 30,1% | ✓ |
-| Investimento +20% | 2,48x | 2,19x | 24,2% | ✓ |
-| Sachê R$ 25/kg | 1,31x | 0,92x | 9,9% | ✗ RISCO → cartas de intenção + PAA-CE antes do protocolo |
+| Base | 2,50x | 2,20x | 25,2% | ✓ |
+| Mel −20% (venda e cooperado) | 1,51x | 1,27x | 11,6% | ✓ piso BNB ≥ 1,50x |
+| Volume −20% (200 t) | 1,65x | 1,42x | 13,9% | ✓ |
+| Preço −10% + volume −10% | 1,63x | 1,39x | 13,5% | ✓ |
+| Juros 12,45% | 2,22x | 1,96x | 25,2% | ✓ |
+| Juros 7,65% | 2,84x | 2,50x | 25,2% | ✓ |
+| Investimento +20% (R$ 4,60 mi) | 2,47x | 2,17x | 19,9% | ✓ |
+| Sachê R$ 25/kg | 1,29x | 0,89x | 6,8% | ✗ RISCO → cartas de intenção + PAA-CE antes do protocolo |
 
-7 de 8 cenários acima do piso; o único abaixo é risco declarado com mitigação obrigatória. Atenção: mel −20% passa por margem de 0,02x e, sem retenção, fica abaixo do piso (1,29x) → a retenção de 5% é estrutural, não opcional. A cobertura só passa de 1,5x com mel −20% a partir de 250 t (≈ 48% da produção da área).
+7 de 8 cenários acima do piso; o único abaixo é risco declarado com mitigação obrigatória. Atenção: mel −20% passa por margem de 0,01x e, sem retenção, fica abaixo do piso (1,27x); TIR dos cooperados nesse cenário = 8,0% → a retenção de 5% é estrutural, não opcional. A cobertura só passa de 1,5x com mel −20% a partir de 250 t (≈ 48% da produção da área).
 
 ## 5. Plano de giro (regime, 250 t — 02A aba Giro)
 
@@ -483,16 +489,18 @@ Validação pendente: 50% na entrega vence o atravessador que paga à vista? →
 
 | # | Onde | Achado | Resolução neste documento |
 |---|---|---|---|
-| 1 | MASTER §0/§2/§11 × RESUMO_ABA × AVULSO 001 | MASTER diz "lista dos 16 NÃO salva". RESUMO_ABA tem a tabela completa dos 17. Os 8 somam 191,442 t → total 520,949 t (bate com 521 t). AVULSO 001 opção A usa Solonópole no lugar de Banabuiú (mesmos 4,5 t). | **RESOLVIDO (011026):** lista de 29/09 (com Banabuiú) gravada no 00B e 00A. Resta só a nota "alternativa Solonópole — confirmar com Diogo". |
+| 1 | MASTER §0/§2/§11 × RESUMO_ABA × AVULSO 001 | MASTER diz "lista dos 16 NÃO salva". RESUMO_ABA tem a tabela completa dos 17. Os 8 somam 191,442 t → total 520,949 t (bate com 521 t). AVULSO 001 opção A usa Solonópole no lugar de Banabuiú (mesmos 4,5 t). | **RESOLVIDO (011026):** lista de 29/09 (com Banabuiú) gravada no 00B e 00A. Banabuiú confirmado pela D4 (07/10/2026). |
 | 2 | MASTER §2 (receita R$ 6,26 mi) | Conta direta: 150 t × R$ 30 + 100 t × R$ 18,55 = R$ 6,355 mi. Diferença R$ 0,095 mi (≈ 1,5%). Nenhum anexo explica (hipótese: perda de processo no 02A). | **RESOLVIDO (011026):** 02A, Premissas B26 = perda de processo 1,5% → 250 × 0,985 = 246,25 t vendidas → R$ 6.259.675 (recalculado em LibreOffice em 01/10/2026). |
 | 3 | MASTER §11 #3 e §9 (02A "rótulos a corrigir") × MASTER §12 ("todas resolvidas") | Contradição interna do MASTER. | D1–D5 = resolvidas. Pendência #3 encerrada. |
-| 4 | RESUMO_ABA §3 | Capital próprio R$ 0,5 mi, investimento R$ 2,5 mi, cooperado 70% | Superados pelo MHBV 1.0 (1,29 / 3,29 / 65%). |
+| 4 | RESUMO_ABA §3 | Capital próprio R$ 0,5 mi, investimento R$ 2,5 mi, cooperado 70% | Superados pelo MHBV 1.0 (hoje 1,83 / 3,83 / 65% — D1). |
 | 5 | AVULSO 002 × MASTER | Pendência "parecer OAB/CE art. 29 §4º (LUSA pode vender mel?)" não estava na lista do MASTER. | Incluída (#22). |
 | 6 | AVULSO 002 × MASTER | Pasta: MASTER cita MHBV_1.0_PROJETO_FINAL; AVULSO 002 cita `Área de Trabalho\M_H_B_V_1`. | **Superado:** pasta vigente = `Desktop\MHBV\MHBV 011026`. |
 | 7 | AVULSO 002 / RESUMO × MASTER (INPI) | "busca/pedido" × "busca + REDESIM". | 14/11 = busca + REDESIM; pedido logo após [data A CONFIRMAR]. |
 | 8 | RESUMO_ABA / AVULSO 002 | Fatos ausentes do MASTER: UE 2026/1189; sachê CE R$ 61/kg; SIE CE 1+5; SISBI só cárneos; Selo ARTE interestadual; ANVISA só rotulagem; colmeias 2017; prefeito; portais. | Incorporados ([NOVO]). |
 | 9 | RESUMO_ABA §2 | Não confirmados: taxa JUCEC 2026; juros e prazo do FNE giro; PIS/COFINS/ICMS do mel; continuidade do PAA-CE. | Mantidos nas pendências #7, #15, #17, #13. |
 | 10 | 5 cópias do MASTER (.md ×4 + PDF) | Mesmo conteúdo; PDF só acrescenta a coluna "Nº" na seção 9. | Coluna Nº adotada (Parte D §4). |
+| 11 | HANDOFF 07/10 × MHBV-18 §4 | Handoff dizia "obra ≈ R$ 1.353.700"; no MHBV-18 esse valor é só a soma por tipo de área, sem 6% de estrutura e sem BDI 25% | **RESOLVIDO 07/10 (dono):** obra = R$ 1,79 mi (Cenário 2). |
+| 12 | MHBV-14 (550 m²) × MHBV-18 (630 m²) | Quadro de áreas divergente | **RESOLVIDO (D1):** 630/666 m²; MHBV-14 = estudo histórico, não apagado. |
 
 ## Divergências D1–D5 (registro de 30/09/2026 — todas resolvidas)
 Auditoria independente: 22 achados (2 ALTA · 8 MÉDIA · 12 BAIXA) → corrigidos; 02A reconstruído pelo Diretor; docs corrigidos pelo Editor (CORRECOES_APLICADAS).
@@ -525,17 +533,17 @@ Auditoria independente: 22 achados (2 ALTA · 8 MÉDIA · 12 BAIXA) → corrigid
 ---
 
 # PARTE F2 — Auditoria 30/09 (tarefas 14/15/16)
-Fontes: MHBV-14 (06_ENGENHARIA), MHBV-15 e MHBV-16 (04_LEGAL_REGULATORIO). Só fato conferido em fonte oficial; o resto marcado.
+Fontes: MHBV-14 (03_ENGENHARIA_E_INFRA), MHBV-15 (02_REGULATORIO_E_NORMAS) e MHBV-16 (05_OPERACIONAL_E_RT). Só fato conferido em fonte oficial; o resto marcado.
 
 ## Alertas (decidir)
 
 | # | Alerta | Base | Ação |
 |---|---|---|---|
-| A1 | **CNAE:** IBGE/CONCLA indica **01.59-8-01** para mel; a 10.99-6-99 (usada no MHBV-03) não compreende mel natural | concla.ibge.gov.br (1099-6/99) | Decidir com o contador **antes do CNPJ** (dez/2026) — pendência #28 |
+| A1 | **CNAE:** IBGE/CONCLA indica **01.59-8-01** para mel; a 10.99-6-99 isolada não compreende mel natural | concla.ibge.gov.br (1099-6/99) | **D5 (07/10):** 01.59-8-01 principal + 10.99-6-99 secundário; confirmar com contador antes do CNPJ — #28 |
 | A2 | **Venda fora do CE só com SIF.** ADAGRI sem escopo SISBI para mel (só leite, pescado, cárneos); Decreto 12.408/2025 caducou em 14/03/2026 | Lei 1.283, art. 4º; MAPA P&R SISBI/Dec. 12.408 | Mantém a Via Faseada: Fases 0 e 1 só no Ceará |
 | A3 | **Selo ARTE arriscado para sachê:** exige técnica predominantemente manual e origem determinada | Decreto 11.099/2022, art. 5º | Pendência #19 |
 | A4 | **PNCRC oficial só para SIF.** No SIE, resíduos = autocontrole (PAC XIV) — R$ 40 mil/ano continua necessário | Portaria SDA 1.266/2025; Port. ADAGRI 962/2016 | MHBV-03 corrigido |
-| A5 | **Área:** 550 m² = área **útil** (20 setores); construída ≈ **580–595 m²** | MHBV-14 §5 | Conferir com orçamento de obra R$ 1,30 mi — #25 |
+| A5 | **Área:** 550 m² útil era insuficiente (estoque, casa de máquinas, vasilhame) | MHBV-17/18 | **D1 (07/10):** 630 m² úteis / ≈ 666 construídos; obra R$ 1,79 mi |
 | A6 | Port. 795 aplicada ao SIE: o texto não diz expressamente | MHBV-14 §7; MHBV-15 C2 | Perguntar à ADAGRI (usar como referência técnica) |
 
 ## Correções aplicadas nesta edição
@@ -553,11 +561,11 @@ Uniforme por zona, autodeclaração de saúde, visitantes (RG-02B), CIP com abel
 ---
 
 # PARTE G — PENDÊNCIAS UNIFICADAS (ordem de prioridade · 01/10/2026)
-Encerradas nesta edição: #1 (Anexo I gravado), #3 (02A D1–D5), #23 (receita R$ 6,26 mi explicada).
+Encerradas: #1 Anexo I (011026) e Banabuiú (D4, 071026), #3 (02A D1–D5), #23 (receita), #25 (área — D1), #26 (06/02/05 atualizados em 071026).
 
 | # | Pendência | Dono | Data-limite | Prioridade |
 |---|---|---|---|---|
-| 1 | Confirmar Banabuiú × Solonópole (alternativa) e conferir os 17 no SIDRA tab. 74 antes do edital | Diogo | 18/11/2026 | ALTA |
+| 1 | Conferir os 17 municípios no SIDRA tab. 74 antes do edital (Banabuiú decidido — D4) | Diogo | 18/11/2026 | MÉDIA |
 | 2 | ≥ 20 fichas (meta 25) + resposta sobre 50/20/30 por cooperado | Comissão | 31/10/2026 | CRÍTICA |
 | 4 | Protocolar Ofício MHBV-01 (Prefeitura) | Comissão | Out/2026 [data A CONFIRMAR] | ALTA |
 | 5 | Busca INPI "MEL-HORANDO" + viabilidade REDESIM | Diogo + contador | 14/11/2026 | ALTA |
@@ -569,7 +577,7 @@ Encerradas nesta edição: #1 (Anexo I gravado), #3 (02A D1–D5), #23 (receita 
 | 11 | Enquadramento SEMACE e CBMCE (Portaria 303/2024) do imóvel do piloto | RT | Fev/2027 | MÉDIA |
 | 12 | 3 orçamentos por equipamento (R$ 1,69 mi sem cotação) | CA | Antes de 04/2028 | ALTA |
 | 13 | ≥ 3 cartas de intenção de sachê a R$ 30/kg + adesão/continuidade PAA-CE | CA | Antes de 04/2028 | ALTA |
-| 14 | Fechar capital próprio R$ 1,29 mi (fontes sem valor verificado) | CA | 04/2028 | ALTA |
+| 14 | Fechar capital próprio **R$ 1,83 mi** (+R$ 0,54 mi pela D1; fontes sem valor verificado: São José/emendas, CDRU, escopo — MHBV-18 §6) | CA | 04/2028 | CRÍTICA |
 | 15 | BNB: prazo/renovação/juros do giro, taxa, garantias, contrapartida mínima, porte, rito | Diogo com gerente | Antes de 04/2028 | ALTA |
 | 16 | Área do terreno para CDRU | RT + Prefeitura | Fev/2027 | MÉDIA |
 | 17 | Tributos líquidos 7% (ICMS-CE cooperativa + PIS/Cofins do ato cooperativo) | Contador | Antes de 04/2028 | MÉDIA |
@@ -579,9 +587,8 @@ Encerradas nesta edição: #1 (Anexo I gravado), #3 (02A D1–D5), #23 (receita 
 | 21 | Usar ou não o MHBV-12G e com qual cooperativa | Diogo | Nov/2026 | BAIXA |
 | 22 | Parecer OAB/CE: Lei 5.764 art. 29 §4º — LUSA pode vender mel? | Diogo + advogado | Antes da AGE (28/11/2026) | ALTA |
 | 24 | Acompanhar decisão UE (Scopaff 20–21/10/2026) e efeito no preço do granel CE | Diogo | Out/2026 | BAIXA |
-| 25 | 550 m² úteis ≈ 580–595 m² construídos: conferir orçamento de obra R$ 1,30 mi | RT + projetista | Fev/2027 | MÉDIA |
-| 26 | Atualizar 06 (§ volume), 02 (§ 5 e área de ação) e 05 (risco #1) — ainda dizem "8 municípios não fixados" | Diretor | Próxima edição | MÉDIA |
+| 25 | 3 orçamentos de obra por tipo de área (preços do MHBV-18 sem cotação) + confirmar terreno ≈ 2.500 m² | RT + projetista + Prefeitura | Fev/2027 | ALTA |
 | 27 | Lacunas de conteúdo do 07/07A (MHBV-16 §2.2): RG-02B, RG-11C, RG-15, ficha art. 65, CIP abelhas, contraprova, recall | RT | Antes de 01/04/2027 | ALTA |
-| 28 | **CNAE** do entreposto (01.59-8-01 × 10.99-6-99) | Contador | Antes do CNPJ (dez/2026) | ALTA |
+| 28 | **CNAE** — D5 decidida (01.59-8-01 + 10.99-6-99); falta confirmação do contador | Contador | Antes do CNPJ (dez/2026) | ALTA |
 
-**Próximos 3 passos:** (1) fichas até 31/10 (#2); (2) CNAE com o contador (#28); (3) cartas de intenção do sachê (#13).
+**Próximos 3 passos:** (1) fichas até 31/10 (#2); (2) CNAE com o contador (#28); (3) fontes dos R$ 1,83 mi de capital próprio (#14) e cartas de intenção do sachê (#13).

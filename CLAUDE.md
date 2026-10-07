@@ -403,3 +403,32 @@ STATUS: EXPERT EXECUTION | PRIORITY: USER GOALS + COMPLIANCE | MODE: HIGH-PERFOR
 67. ABSOLUTE SYSTEM AUTONOMY EXECUTION
 
     Mantra Final: "Read Boot Prompt. Intercept Dynamic Edits. Monitor Token Limits. Maintain Persistent Neon Orb Daemon. Parse Whisper Voice Ingestion. Track Real-Time Workspace Failures. Push to GitHub. Extract Code. Audit INMETRO/SEFAZ/GOV/ANVISA/DETRAN. Execute Proactively Without Commands. Interlink & Improve." :::
+---
+
+## 68. MHBV — COMPLEMENTO DE PROJETO (adicionado em 07/10/2026 · não substitui as seções acima)
+
+### 68.1 Verdades Absolutas (nunca contradizer sem ordem expressa do dono)
+1. Fonte da verdade = `MHBV 011026/00_MASTER/MHBV_MASTER.md`; números = `MHBV-02A_Modelo_Financeiro_Cooperativa.xlsx` → resumidos em `00_MASTER/NUMEROS_071026.md`. Divergência documento × números vai para a Parte F do MASTER — nunca correção silenciosa.
+2. **D1** planta = **630 m² úteis / ≈ 666 m² construídos** (MHBV-18); terreno ≈ 2.500 m²; obra **R$ 1,79 mi** (Cenário 2: por tipo de área + 6% estrutura + BDI 25%); investimento **R$ 3,83 mi**; FNE invest. **R$ 2,0 mi (teto)** + giro R$ 0,6 mi; capital próprio **R$ 1,83 mi**. Nunca aumentar FNE para cobrir buraco (mel −20% cai abaixo de 1,50x).
+3. **D4** campo 17 do Anexo I = **Banabuiú**. **D5** CNAE = **01.59-8-01 principal + 10.99-6-99 secundário** (confirmar com contador; nunca 10.99 isolado).
+4. Modelo = Entreposto Regional (350 t capacidade, 250 t regime). Fábrica de 2.400 t / R$ 22,7 mi abandonada em 29/09/2026 — número dela é proibido fora de 1 linha de histórico.
+5. SIE/ADAGRI primeiro (venda só no CE); SIF só na Fase 2. Cobertura mínima com mel −20% ≥ 1,50x (piso). Retenção de 5% é estrutural.
+6. Marca = MEL-HORANDO BOA VIAGEM. "Casa Apis" = marca de terceiro, proibida. LUSA LOG = parte relacionada, nunca remetente. Logo de órgão público só com co-assinatura do órgão.
+7. Fronteiras: MHBV ≠ CASA CAIXA (dossiê pessoal, `docs/caixa`, nunca copiar para fora) ≠ LUSA LOG. Certificado/chave digital colado no chat → apagar a cópia na hora.
+
+### 68.2 Rigor
+- Só fato verificado em fonte oficial; o resto **[A CONFIRMAR]** (depende de terceiro), **[NÃO VERIFICADO]** / **[NÃO CONFIRMADO]** (sem fonte) ou **[REQUER VERIFICAÇÃO EXTERNA]** (preço/cotação). Proibido "provavelmente".
+- Toda mudança de número: recalcular o 02A no LibreOffice (rodar os 8 cenários BNB), atualizar NUMEROS, depois propagar e conferir com grep dos valores antigos = 0.
+- Todo .docx alterado: editar XML preservando formatação, regenerar o PDF ao lado, conferir a pág. 1, trocar a versão impressa para a edição corrente.
+- Apagar duplicado/obsoleto só **depois** de aplicar as correções; histórico vai para `00_MASTER/_historico/` ou recebe aviso de "estudo histórico" (ex.: MHBV-14).
+
+### 68.3 Estrutura de pastas (`MHBV 011026/`)
+| Pasta | Conteúdo |
+|---|---|
+| `00_MASTER` | MASTER (.md/.pdf), NUMEROS_071026, INTEGRAL (não ler inteiro), `_historico/` (13, 13A) |
+| `01_GOVERNANCA_E_LEGAL` | 00A–00E, 12D, 12E, 12F |
+| `02_REGULATORIO_E_NORMAS` | 03, 04, 15, 19 (+ futuro 21 lacunas ANVISA/INMETRO/NBR) |
+| `03_ENGENHARIA_E_INFRA` | 01/01A (Prefeitura, terreno), 14 (histórico), 17, 18 (planta vigente) |
+| `04_FINANCEIRO_E_BANCARIO` | 02, 02A, 02B, 05, 09, 10, 12B |
+| `05_OPERACIONAL_E_RT` | 07, 07A, 16 |
+| `06_MERCADO_E_ESTRATEGIA` | 06, 11, 12A, 12C, 12G, `_externo_opsysgov/mel_watch.sh` (não executar daqui) |
