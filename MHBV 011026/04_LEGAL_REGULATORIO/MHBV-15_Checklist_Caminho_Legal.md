@@ -6,7 +6,7 @@
 | Documento | MHBV-15 · MHBV 011026 (01/10/2026) |
 | Data | 30/09/2026 (texto) · consolidado em 01/10/2026 |
 | Emitente | Comissão Organizadora – COOP MEL-HORANDO (em constituição) |
-| Escopo | Fase 0 piloto SIE em imóvel locado → Fase 1 entreposto próprio (~550 m²) → Fase 2 SIF |
+| Escopo | Fase 0 piloto SIE em imóvel locado → Fase 1 entreposto próprio (~550 m²) [D1 07/10/2026: vigente 630/666 m² — MHBV-18] → Fase 2 SIF |
 | Regra | Só fato conferido em fonte oficial. Resto = **[NÃO CONFIRMADO]**. Taxa sem fonte = não informada. |
 | Substitui | Consolida e corrige MHBV-03, MHBV-00E e MHBV-04 (v1.0) nos pontos abaixo; o resto desses docs segue válido |
 

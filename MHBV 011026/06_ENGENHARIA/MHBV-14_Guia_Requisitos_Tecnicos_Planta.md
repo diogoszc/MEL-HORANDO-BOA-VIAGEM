@@ -1,3 +1,5 @@
+> **ESTUDO HISTÓRICO (v1.0, 550 m²) — superado pela decisão D1 de 07/10/2026: planta vigente = 630 m² úteis / ≈666 m² construídos (MHBV-18). Requisitos sanitários por setor continuam válidos como referência; quadro de áreas e custos, não.**
+
 # MHBV-14 — Guia de Requisitos Técnicos da Planta
 **Entreposto de mel MEL-HORANDO BOA VIAGEM (unidade de beneficiamento de produtos de abelhas)**
 

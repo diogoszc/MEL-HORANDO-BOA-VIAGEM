@@ -2,7 +2,7 @@
 
 | Campo | Valor |
 |---|---|
-| Projeto | COOP MEL-HORANDO — Entreposto regional de mel (Fase 0 piloto SIE/ADAGRI → Fase 1 ~550 m², 350 t/ano) |
+| Projeto | COOP MEL-HORANDO — Entreposto regional de mel (Fase 0 piloto SIE/ADAGRI → Fase 1 ~550 m², 350 t/ano) [D1 07/10/2026: vigente 630/666 m² — MHBV-18] |
 | Documento | MHBV-16 · Esboço BPF-Mel (Parte 1) + Auditoria do MHBV-07 v1.0 e MHBV-07A v1.0 (Parte 2) |
 | Versão | MHBV 011026 (01/10/2026) |
 | Data | 30/09/2026 (texto) · consolidado em 01/10/2026 |
