@@ -2,12 +2,13 @@
 
 Fonte: Parte F do `MHBV_MASTER.md` (011026) + alertas do Auditor em 30/09 (STATE_AVULSO_005, arquivado em `_backup_antigo/PROJETO CASA APIS v.0.1.0/MHBV_1.0_PROJETO_FINAL/`).
 
-## Decisões do dono
-| # | Decisão | Prazo |
+## Decisões do dono — ATUALIZADO 07/10/2026
+| # | Decisão | Status / Prazo |
 |---|---|---|
-| 1 | Anexo I: manter **Banabuiú** ou trocar por **Solonópole** (mesmos 4,5 t) | antes da Assembleia 28/11/2026 |
-| 2 | CNAE: IBGE indica **01.59-8-01** (mel) e não 10.99-6-99 → decidir com o contador | antes do CNPJ (dez/2026) |
-| 3 | Parecer OAB sobre art. 29 §4º da Lei 5.764/71 | — |
+| **D1** | **Área da planta** | ✅ **DECIDIDO 07/10: adotar 630 m² úteis / ≈666 construídos (MHBV-18).** Propagar para MHBV-02, 02A, 03, 05, 06, 14. Reorçar obra ≈ R$ 1.353.700. MHBV-14 (550 m²) passa a estudo histórico. |
+| **D4** | Anexo I campo 17: **Banabuiú** ou Solonópole (mesmos 4,5 t) | ⏳ **Default = Banabuiú.** Só trocar se o dono apontar motivo (parceiro/âncora/logística). Prazo: Assembleia 28/11/2026. |
+| **D5** | CNAE | ⏳ **Recomendação gravada: principal 01.59-8-01 (Apicultura, preserva ato cooperativo/rural) + secundário 10.99-6-99 (entreposto/beneficiamento).** Confirmar com contador antes do CNPJ (dez/2026). NÃO usar 10.99 isolado (perde blindagem cooperativa). |
+| D3 | Parecer OAB sobre art. 29 §4º da Lei 5.764/71 | — |
 
 ## Alertas técnicos a incorporar nos documentos
 - Venda fora do CE só com **SIF** (ADAGRI sem SISBI para mel; Decreto 12.408/2025 caducou em 14/03/2026).
