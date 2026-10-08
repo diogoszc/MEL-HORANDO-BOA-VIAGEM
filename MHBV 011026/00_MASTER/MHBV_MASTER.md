@@ -346,6 +346,7 @@ Nomes limpos (sem sufixo de versão). Cada .docx tem PDF ao lado. Versão impres
 | 10 | 01_GOVERNANCA_E_LEGAL | MHBV-12D_Declaracao_de_Desimpedimento | Conselheiro eleito (JUCEC) | Minuta |
 | 11 | 01_GOVERNANCA_E_LEGAL | MHBV-12E_Lista_de_Presenca | Reuniões (AGE: Anexo II da 00A) | Pronto |
 | 12 | 01_GOVERNANCA_E_LEGAL | MHBV-12F_Roteiro_1a_Reuniao_Mobilizacao | Mobilização (fichas até 31/10) | Pronto |
+| 12b | 01_GOVERNANCA_E_LEGAL | MHBV-23_Controle_Fichas_Adesao.xlsx + MHBV-23B_Mensagens_WhatsApp_Mobilizacao.md | Painel das fichas até 31/10 (convites, fichas, município, CAF, conselhos) + 5 mensagens prontas | 08/10/2026 · dados pessoais (LGPD) |
 | 13 | 02_REGULATORIO_E_NORMAS | MHBV-03_Checklist_Conformidade_Tecnica | Checklist por órgão + matriz · CNAE D5 | 071026 |
 | 14 | 02_REGULATORIO_E_NORMAS | MHBV-04_Mapa_de_Acoes_Online | Ações 1–15 | 071026 |
 | 15 | 02_REGULATORIO_E_NORMAS | MHBV-15_Checklist_Caminho_Legal.md | Do CNPJ ao selo (SIM/SIE/SIF/SISBI/ARTE; MAPA × ANVISA) | Auditoria 30/09 |
