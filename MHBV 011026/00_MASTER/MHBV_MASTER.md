@@ -184,7 +184,7 @@ Umidade fora do padrão: **proibido desumidificar para corrigir** (art. 85). Des
 | Portas | Fresta ≤ 6 mm + escova/borracha | Critério de projeto |
 | Superfícies / ralos | Lisas, laváveis, cantos r ≥ 5 cm, sem madeira; ralos sifonados inox | Piso: art. 6º XIII · paredes e ralos sifonados: Port. MAPA 368/1997, item 4.1.3.7 |
 | Iluminação | Fechada, sem vidro, IP65; 500 lux processo / 750 lux lab | Critério de projeto |
-| Água | Reservatório tampado, higienização semestral, cloro residual ≥ 0,2 mg/L | Port. GM/MS 888/2021 |
+| Água | Reservatório tampado, higienização semestral, cloro residual ≥ 0,2 mg/L | Port. de Consolidação GM/MS 5/2017, Anexo XX (red. Port. 888/2021; alt. Port. 2.472/2021) |
 | Armazenagem | Palete ≥ 0,15 m; 0,50 m da parede; ≤ 30 °C; PEPS | Critério de projeto |
 | Materiais em contato | Inox; tambor com verniz sanitário íntegro; vedado reaproveitar embalagem de outro produto; galvanizado/cobre vedados por critério técnico | Art. 26, I · RDC 20/2007, 56/2012, 326/2019 [NÃO CONFIRMADO para galvanizado/cobre] |
 | Metal | Detector de metais na linha de sachê | RDC 623/2022 |
@@ -349,6 +349,7 @@ Nomes limpos (sem sufixo de versão). Cada .docx tem PDF ao lado. Versão impres
 | 14 | 02_REGULATORIO_E_NORMAS | MHBV-04_Mapa_de_Acoes_Online | Ações 1–15 | 071026 |
 | 15 | 02_REGULATORIO_E_NORMAS | MHBV-15_Checklist_Caminho_Legal.md | Do CNPJ ao selo (SIM/SIE/SIF/SISBI/ARTE; MAPA × ANVISA) | Auditoria 30/09 |
 | 16 | 02_REGULATORIO_E_NORMAS | MHBV-19_Laudo_Auditoria_Caminho_Legal.md | Laudo do 15 | Auditoria |
+| 16b | 02_REGULATORIO_E_NORMAS | MHBV-21_Lacunas_Regulatorias_ANVISA_INMETRO_NBR.md | Normas ANVISA/INMETRO/ABNT/CBMCE conferidas em fonte oficial | 08/10/2026 · 22 itens [NÃO CONFIRMADO] |
 | 17 | 03_ENGENHARIA_E_INFRA | MHBV-01_Oficio_Prefeitura (+ 01A Guia de protocolo) | Anuência, terreno ≈ 2.500 m² (CDRU), uso do solo, alvarás | 071026 · pronto p/ protocolo [data A CONFIRMAR] |
 | 18 | 03_ENGENHARIA_E_INFRA | MHBV-18_Layout_Preliminar_630m2_e_Orcamento_BDI.md | **Planta vigente (D1)**: 630/666 m², terreno, obra R$ 1,79 mi | Vigente · preços [REQUER VERIFICAÇÃO EXTERNA] |
 | 19 | 03_ENGENHARIA_E_INFRA | MHBV-17_Laudo_Auditoria_Planta.md | Laudo do 14 (origem do 18) | Auditoria |
@@ -392,9 +393,13 @@ Fora da pasta (arquivo morto): suíte _v1.0, MHBV_A_SEGUIR, AVULSO_001/002/003/0
 | Decreto 12.408/2025 | Venda interestadual temporária de mel | Caducou em 14/03/2026 — não usar |
 | Portaria SDA 1.266/2025 (PNCRC/Animal) | Coleta oficial de resíduos | Só para SIF |
 | RDC Anvisa 622/2022 | Controle de pragas (empresa licenciada, visita ≥ mensal) | Verificada (MHBV-16) |
-| RDC 623/2022; 724/2022 + IN 161/2022; 722/2022 + IN 160/2022; 727/2022; 429/2020 + IN 75/2020; 59/2010; 622/2022; 20/2007; 56/2012; 326/2019; 91/2001 | Matéria estranha, micro, contaminantes, rotulagem, saneantes, embalagens | Citadas [NÃO VERIFICADO nesta edição] |
-| Port. GM/MS 888/2021 | Potabilidade | Citada [NÃO VERIFICADO] |
-| LC 116/2003; LC 140/2011; Lei CE 13.556/2004; NBR 9050, 10898, 13434, 14276, 17240, 5419, 5410; NRs MTE | ISS; licença ambiental; incêndio; acessibilidade; trabalho | Citadas [NÃO VERIFICADO] |
+| RDC 623/2022; 724/2022 + IN 161/2022 (mel sem critério microbiológico); 722/2022 + IN 160/2022 (mel: As 0,30 · Cd 0,10 · Pb 0,30 · Cu 10,0 mg/kg → PAC XIV); 727/2022; 429/2020 + IN 75/2020 (tabela nutricional, porção 20 g; lupa p/ mel puro [NÃO CONFIRMADO]); 59/2010; 622/2022; embalagens: 91/2001, 20/2007 (alt. 498/2021), 51/2010, 52/2010, 56/2012, 326/2019 | Matéria estranha, micro, contaminantes, rotulagem, saneantes, embalagens | Status por norma no **MHBV-21** (08/10/2026) |
+| Port. de Consolidação GM/MS 5/2017, Anexo XX (red. Port. 888/2021; alt. 2.472/2021) | Potabilidade | Verificada (MHBV-21) |
+| Lei 9.933/1999 (alt. 12.545/2011); Port. Inmetro 249/2021, 248/2008, 328/2021 (se peso variável), 157/2022 | Peso no rótulo; tolerância e controle por lote; balança com selo IPEM-CE | MHBV-21 · alturas de letra/tolerâncias em número [NÃO CONFIRMADO] |
+| Lei CE 13.556/2004 (alt. 16.361/2017); NTs CBMCE 01/2024, 05, 14/2024, 18/2026 (iluminação; NT 009 revogada 24/09/2026), 20/2026, 21/2024; Port. CBMCE 303/2024 (alt. 123/2026) | Incêndio / PSCIP | MHBV-21 · enquadramento no rito simplificado (≤ 750 m²) pelos CNAEs [NÃO CONFIRMADO] |
+| NBR 9050, 10898, 14276, 17240, 5419, 5410; **NBR 16820:2020** (substitui a 13434 na NT CBMCE 20/2026); LC 116/2003; LC 140/2011; NRs MTE | Acessibilidade; sinalização; ISS; licença ambiental; trabalho | Vigência das NBR [NÃO CONFIRMADO — catálogo ABNT inacessível] |
+| Orientações MAPA/DIPOA 2014 (rótulo de mel), item 6.2 | Alerta "não dar a menores de 1 ano" | Orientação, não lei/RDC — adotar no rótulo |
+| RDC 216/2004 · RDC 26/2015 | — | 216 não se aplica (indústria excluída, item 1.2) · 26/2015 revogada pela RDC 727/2022 |
 | Lei 13.709/2018 (LGPD), art. 7º, II | Fichas e listas | Citada |
 | Regulamento de Execução (UE) 2026/1189 | Suspensão do mel BR na UE | Citado (RESUMO_ABA) [NÃO VERIFICADO nesta edição] |
 | "Portaria MAPA 331/2021" | — | Não localizada → não usar |
@@ -589,6 +594,8 @@ Encerradas: #1 Anexo I (011026) e Banabuiú (D4, 071026), #3 (02A D1–D5), #23 
 | 24 | Acompanhar decisão UE (Scopaff 20–21/10/2026) e efeito no preço do granel CE | Diogo | Out/2026 | BAIXA |
 | 25 | 3 orçamentos de obra por tipo de área (preços do MHBV-18 sem cotação) + confirmar terreno ≈ 2.500 m² | RT + projetista + Prefeitura | Fev/2027 | ALTA |
 | 27 | Lacunas de conteúdo do 07/07A (MHBV-16 §2.2): RG-02B, RG-11C, RG-15, ficha art. 65, CIP abelhas, contraprova, recall | RT | Antes de 01/04/2027 | ALTA |
+| 29 | Aplicar MHBV-21 nos documentos: MHBV-03 (INMETRO com números, NBR 16820, NTs CBMCE, Anexo XX), MHBV-07/07A (metais no PAC XIV, controle de peso por lote, balança IPEM-CE), rótulo (peso no painel, tabela nutricional 20 g, alerta < 1 ano), laudos do filme do sachê e do verniz do tambor | Diretor + RT | Antes de 01/04/2027 | ALTA |
+| 30 | Consulta escrita à Anvisa: mel puro leva lupa "alto em açúcar adicionado"? | RT | Antes do rótulo | MÉDIA |
 | 28 | **CNAE** — D5 decidida (01.59-8-01 + 10.99-6-99); falta confirmação do contador | Contador | Antes do CNPJ (dez/2026) | ALTA |
 
 **Próximos 3 passos:** (1) fichas até 31/10 (#2); (2) CNAE com o contador (#28); (3) fontes dos R$ 1,83 mi de capital próprio (#14) e cartas de intenção do sachê (#13).

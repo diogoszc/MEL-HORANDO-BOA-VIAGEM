@@ -7,7 +7,7 @@
 - Suíte reorganizada em 6 pastas + `00_MASTER`; duplicados removidos (00D antigo, MHBV-20). `README.md` = índice-mestre. `CLAUDE.md` §68 = Verdades Absolutas.
 
 ## Falta
-1. Pesquisa ANVISA/INMETRO/NBR em fonte oficial → `02_REGULATORIO_E_NORMAS/MHBV-21_...md` (suspensa pelo dono; só retomar se ele mandar).
+1. ✅ MHBV-21 feito (08/10). Falta aplicar no MHBV-03/07/07A e no rótulo (MASTER #29).
 2. Fechar capital próprio R$ 1,83 mi (pendência #14, CRÍTICA). 3. Fichas ≥ 20 até 31/10. 4. CNAE com contador.
 
 ## Fronteiras (NUNCA misturar)

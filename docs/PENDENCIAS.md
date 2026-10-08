@@ -18,7 +18,7 @@ Fonte: Parte F do `MHBV_MASTER.md` (011026) + alertas do Auditor em 30/09 (STATE
 - MHBV-03: corrigir 3 citações (ralo = Port. 368 item 4.1.3.7; fluxo = art. 6º IX; filtração = art. 26 + art. 34 III).
 - ✅ Área resolvida (D1). NOVO: 3 orçamentos de obra por tipo de área + confirmar terreno ≈ 2.500 m² com a Prefeitura (fev/2027).
 - NOVO (crítico): fechar capital próprio **R$ 1,83 mi** (+R$ 0,54 mi) sem aumentar FNE — São José/emendas, CDRU, escopo.
-- NOVO: pesquisa ANVISA/INMETRO/NBR (futuro MHBV-21) — suspensa pelo dono em 07/10; retomar quando ele mandar.
+- ✅ 08/10: pesquisa ANVISA/INMETRO/NBR feita → `02_REGULATORIO_E_NORMAS/MHBV-21`. Falta aplicar no 03/07/07A/rótulo (MASTER #29) e consultar a Anvisa sobre a lupa (#30).
 
 ## Não confirmados (marcar [NÃO VERIFICADO] até fonte)
 Taxa JUCEC 2026 · juros/prazo FNE giro · PIS/COFINS/ICMS do mel · continuidade do PAA-CE · lab ISO 17025 · taxa SIE.
