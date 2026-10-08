@@ -19,7 +19,7 @@ Planta 630 m² úteis / ≈ 666 m² construídos · terreno ≈ 2.500 m² · 350
 ## Suíte por pasta (`MHBV 011026/`)
 | Pasta | Documentos |
 |---|---|
-| `00_MASTER` | MHBV_MASTER (.md/.pdf) · NUMEROS_071026 · MHBV_INTEGRAL (tudo concatenado, não ler inteiro) · `_historico/` 13 Laudo auditoria 30/09, 13A Correções |
+| `00_MASTER` | MHBV_MASTER (.md/.pdf) · NUMEROS_071026 · **22 Kit de impressão (PDF)** · MHBV_INTEGRAL (tudo concatenado, não ler inteiro) · `_historico/` 13 Laudo auditoria 30/09, 13A Correções |
 | `01_GOVERNANCA_E_LEGAL` | 00A Edital e Ata · 00B Estatuto (Anexo I, 17 municípios) · 00C Regimento · 00D Ficha de adesão e guia · 00E Checklist JUCEC/OCB · 12D Desimpedimento · 12E Lista de presença · 12F Roteiro 1ª reunião |
 | `02_REGULATORIO_E_NORMAS` | 03 Checklist de conformidade técnica · 04 Mapa de ações online · 15 Caminho legal (CNPJ → selo) · 19 Laudo do caminho legal · 21 Normas ANVISA/INMETRO/NBR |
 | `03_ENGENHARIA_E_INFRA` | 01 Ofício Prefeitura + 01A Guia de protocolo · **18 Layout 630 m² + orçamento (vigente)** · 17 Laudo da planta · 14 Requisitos por setor (quadro 550 m² histórico) |

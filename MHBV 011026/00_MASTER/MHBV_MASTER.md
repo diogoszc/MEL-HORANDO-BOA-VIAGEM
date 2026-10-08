@@ -336,6 +336,7 @@ Nomes limpos (sem sufixo de versão). Cada .docx tem PDF ao lado. Versão impres
 | 1 | 00_MASTER | MHBV_MASTER.md + .pdf | Fonte da verdade (este documento) | 071026 |
 | 2 | 00_MASTER | NUMEROS_071026.md | Tabela antes × vigente de todos os números (D1) | 071026 |
 | 3 | 00_MASTER | MHBV_INTEGRAL.md | Texto integral de toda a pasta, com índice (não ler inteiro) | regenerado 071026 |
+| 3b | 00_MASTER | MHBV-22_Kit_Impressao_Arquivo_Mestre.pdf | Capa, lombadas, índice, divisórias 00–06, etiquetas de pasta/caixa, livro de protocolos, instruções (14 folhas) | 08/10/2026 |
 | 4 | 00_MASTER/_historico | MHBV-13 / 13A | Auditoria independente de 30/09 e correções | Histórico (caminhos citados = edição 011026) |
 | 5 | 01_GOVERNANCA_E_LEGAL | MHBV-00A_Edital_e_Ata_de_Constituicao | Edital + Ata + Anexos I/II | Minuta p/ registro · Banabuiú (D4) · advogado + OCB/CE |
 | 6 | 01_GOVERNANCA_E_LEGAL | MHBV-00B_Estatuto_Social | Estatuto + Anexo I (17 campos) | Minuta |
